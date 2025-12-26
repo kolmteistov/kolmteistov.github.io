@@ -1,0 +1,21 @@
+baseURL = 'https://kolmteistov.github.io/'
+languageCode = 'en-us'
+title = 'Arie Kolmteistov'
+theme = "PaperMod"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[[menu.main]]
+    name = "Whitepaper"
+    url = "/whitepaper.pdf"
+    weight = 20
+
+[params]
+    ShowBreadCrumbs = true
+    ShowPostNavLinks = true
+    ShowReadingTime = true
+    ShowShareButtons = false
+    ShowCodeCopyButtons = true
