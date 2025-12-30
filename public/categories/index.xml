@@ -5,6 +5,16 @@
     <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Arie Kolmteistov</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Dec 2025 00:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobile Development</title>
+      <link>http://localhost:1313/categories/mobile-development/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/mobile-development/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

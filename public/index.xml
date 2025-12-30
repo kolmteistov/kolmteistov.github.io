@@ -5,7 +5,17 @@
     <link>http://localhost:1313/</link>
     <description>Recent content in Home on Arie Kolmteistov</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Dec 2025 23:49:06 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Research Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 29 Dec 2025 23:49:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>How I optimized cryptographic operations on a smartphone</description>
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about/</link>

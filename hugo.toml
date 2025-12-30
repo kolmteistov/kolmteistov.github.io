@@ -2,6 +2,8 @@ baseURL = 'https://kolmteistov.github.io/'
 languageCode = 'en-us'
 title = 'Arie Kolmteistov'
 theme = "PaperMod"
+defaultContentLanguage = "en"
+timeZone = "Asia/Jakarta"
 
 [[menu.main]]
     name = "About"
@@ -19,4 +21,4 @@ theme = "PaperMod"
     ShowReadingTime = true
     ShowShareButtons = false
     ShowCodeCopyButtons = true
-
+    DateFormat = "January 2, 2006"
