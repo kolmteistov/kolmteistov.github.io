@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Arie Kolmteistov</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://kolmteistov.github.io/tags/</link>
     <description>Recent content in Tags on Arie Kolmteistov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Dec 2025 00:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Dec 2025 23:49:06 +0000</lastBuildDate><atom:link href="https://kolmteistov.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cryptography</title>
-      <link>http://localhost:1313/tags/cryptography/</link>
-      <pubDate>Tue, 30 Dec 2025 00:00:00 +0700</pubDate>
+      <link>https://kolmteistov.github.io/tags/cryptography/</link>
+      <pubDate>Mon, 29 Dec 2025 23:49:06 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/cryptography/</guid>
+      <guid>https://kolmteistov.github.io/tags/cryptography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile</title>
-      <link>http://localhost:1313/tags/mobile/</link>
-      <pubDate>Tue, 30 Dec 2025 00:00:00 +0700</pubDate>
+      <link>https://kolmteistov.github.io/tags/mobile/</link>
+      <pubDate>Mon, 29 Dec 2025 23:49:06 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/mobile/</guid>
+      <guid>https://kolmteistov.github.io/tags/mobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimization</title>
-      <link>http://localhost:1313/tags/optimization/</link>
-      <pubDate>Tue, 30 Dec 2025 00:00:00 +0700</pubDate>
+      <link>https://kolmteistov.github.io/tags/optimization/</link>
+      <pubDate>Mon, 29 Dec 2025 23:49:06 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/optimization/</guid>
+      <guid>https://kolmteistov.github.io/tags/optimization/</guid>
       <description></description>
     </item>
     

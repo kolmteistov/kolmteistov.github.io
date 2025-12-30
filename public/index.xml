@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home on Arie Kolmteistov</title>
-    <link>http://localhost:1313/</link>
+    <link>https://kolmteistov.github.io/</link>
     <description>Recent content in Home on Arie Kolmteistov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Dec 2025 23:49:06 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Dec 2025 23:49:06 +0000</lastBuildDate><atom:link href="https://kolmteistov.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Research Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://kolmteistov.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 29 Dec 2025 23:49:06 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://kolmteistov.github.io/posts/my-first-post/</guid>
       <description>How I optimized cryptographic operations on a smartphone</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://kolmteistov.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://kolmteistov.github.io/about/</guid>
       <description>Hello, I&amp;rsquo;m Arie (Kolmteistov) Independent Security Researcher yang lebih suka berkutat dengan C#, Go, dan Low-Level Logic daripada ngerapiin HTML atau Document. Gue punya ketertarikan mendalam di dunia kriptografi dan malware analisis.
 The Backstory Semua dimulai dari rasa penasaran sama ikon gembok di internet yang ngebawa gue nyasar ke rabbit hole Tor Project dan Darknet. Dari situ, gue mulai mendalami gimana enkripsi bekerja, belajar dari project-project kayak Hidden Tear, hingga akhirnya gue fokus ngembangin sistem enkripsi sendiri yang lebih efisien.</description>
     </item>
