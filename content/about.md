@@ -17,7 +17,7 @@ Semua dimulai dari rasa penasaran sama ikon gembok di internet yang ngebawa gue 
 - **Hates:** Front-end development.
 - **Focus:** Advanced Encryption Implementation, Malware Analysis & Development, Command & Control (C2) Infrastructure, Offensive Security Research.
 
-**Ya, saya suka menggunakan Claude & Gemini Ai untuk membantu, mengoptimalkan, dan membuat prototipe ide dan kode.**
+**Ya, gue suka pake Claude & Gemini Ai untuk bantu, mengoptimalkan, dan membuat prototipe ide juga kode.**
 
 ### Research & Projects
 Project utama gue saat ini adalah **Ultimate Hybrid MMF Encryption Engine** menggunakan Salsa20 Cipher. Riset ini fokus pada optimasi performa enkripsi untuk file berukuran besar di level sistem.
