@@ -2,6 +2,7 @@
 title: "My First Research Post"
 date: 2025-12-29T23:49:06Z
 draft: false
+showthedate: true
 tags: ["mobile", "cryptography", "optimization"]
 categories: ["Mobile Development"]
 author: "Arie Kolmteistov"

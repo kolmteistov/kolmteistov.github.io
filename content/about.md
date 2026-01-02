@@ -2,6 +2,7 @@
 title: "About Me"
 layout: "single"
 url: "/about/"
+showthedate: false
 ---
 
 # Hello, I'm Arie (Kolmteistov)
