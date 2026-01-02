@@ -6,7 +6,7 @@ url: "/"
 
 # Welcome to my Security Research Corner 🔒
 
-> **"Doing my best with a broken PC and a smartphone."**
+> **"Doing my best with a smartphone."**
 
 Welcome! This space is where I document my deep dives into cybersecurity.
 
